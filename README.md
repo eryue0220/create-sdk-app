@@ -29,13 +29,11 @@ $ cd project_name
 $ create-sdk-app init <project_name>
 ```
 
-![Alt text](./1489410132509.png)
-
-
 And then
 ```bash
 $ npm start
 ```
+![image](https://raw.githubusercontent.com/eryue0220/create-sdk-app/master/statics/intro.jpeg)
 
 ### More Info
 
