@@ -1,6 +1,6 @@
 {
   "name": "create-sdk-app",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "create web utils or others scaffold",
   "main": "index.js",
   "bin": {
