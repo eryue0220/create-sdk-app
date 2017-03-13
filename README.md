@@ -5,8 +5,7 @@
 ### Introduction
 
 Create SDK APP works on macOS, windows, may be Linux.
-If something wrong, please [issue](https://github.com/eryue0220/create-sdk-app/issues) let me know.
-This is a solution for building web develop environment, inspired by [create-react-app](https://github.com/facebookincubator/create-react-app)
+If something is wrong, please [issue](https://github.com/eryue0220/create-sdk-app/issues) let me know. This is a solution for building web develop environment, inspired by [create-react-app](https://github.com/facebookincubator/create-react-app)
 
 ### Installation
 
@@ -29,6 +28,10 @@ Then change the directory to your project directory:
 $ cd project_name
 $ create-sdk-app init <project_name>
 ```
+
+![Alt text](./1489410132509.png)
+
+
 And then
 ```bash
 $ npm start
