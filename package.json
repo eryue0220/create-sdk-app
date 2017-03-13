@@ -1,0 +1,27 @@
+{
+  "name": "create-sdk-app",
+  "version": "0.1.0",
+  "description": "create web utils or others scaffold",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eryue0220/create-sdk-app.git"
+  },
+  "keywords": [
+    "scaffold"
+  ],
+  "author": "cinchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eryue0220/create-sdk-app/issues"
+  },
+  "homepage": "https://github.com/eryue0220/create-sdk-app#readme"
+}
