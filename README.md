@@ -26,7 +26,7 @@ $ npm install -g create-sdk-app
 Then change the directory to your project directory:
 ```bash
 $ cd project_name
-$ create-sdk-app init <project_name>
+$ create-sdk-app init <project_name> | <options>
 ```
 
 And then
@@ -34,6 +34,27 @@ And then
 $ npm start
 ```
 ![image](https://raw.githubusercontent.com/eryue0220/create-sdk-app/master/statics/intro.jpeg)
+
+And then
+```bash
+$ npm start
+```
+
+### More Options
+
+#### ECMAScript 2015
+
+`create-sdk-app` support `ES6` to better develop. Use `ES 6` as follow:
+
+```bash
+create-sdk-app i sdk-name es6
+```
+
+In default, `create-sdk-app` sets the develop environment is `ES 5`。
+
+#### TODO
+
+In future, `create-sdk-app` will support more environment. such as `React`、`Vue` or others.
 
 ### More Info
 
